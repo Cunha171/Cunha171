@@ -11,4 +11,4 @@ Meu nome é Gustavo Santos, tenho 18 anos e estudo desenvolvimento de softwares
 
 ## Estatísticas:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cunha171&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
